@@ -31,7 +31,8 @@
             android:id="@+id/btn_listview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="List View"/>
+            android:text="List View"
+            android:onClick="clickbtnListView"/>
     </LinearLayout>
 
     <LinearLayout
